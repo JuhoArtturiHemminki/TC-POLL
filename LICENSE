@@ -1,0 +1,60 @@
+# DEFENSIVE PRIOR ART DECLARATION AND OPEN REVERSE-LOGIC LICENSE (DPAL)
+## RE: Transverse-Carrier Plasmonic Optical Logic Lattice (TC-POLL) Architecture
+
+**Author & First Inventor:** Juho Artturi Hemminki  
+**Licensing & Rights Management Inquiries:** projectflagcarrier@gmail.com  
+**Publication Date:** September 19, 2026  
+
+---
+
+### PREAMBLE & STATEMENT OF NOVELTY
+
+This document establishes a definitive, public defensive prior art disclosure and defensive license framework for the **Transverse-Carrier Plasmonic Optical Logic Lattice (TC-POLL)** microchip architecture.
+
+The semiconductor industry is severely bounded by thermal limitations (Dennard scaling limits), Von Neumann memory bottlenecks, and resistance-capacitance (RC) interconnect delays native to horizontal metallic wires. The TC-POLL architecture represents a radical computing paradigm establishing **genuine global novelty** over classical CMOS and silicon photonics through an interconnected matrix of four core inventions:
+
+1. **Inverted Negative-Logic via Rest-State Conduction:** Every processing gate on the chip is structurally engineered to be **permanently ON (State 1)** at rest with near-zero power dissipation via ballistic graphene ribbon networks or superconducting Josephson junctions, where the rest-state static resistance $R_0 \to 0$ and dynamic power is used exclusively to force a gate into a non-conductive phase (**State 0**).
+2. **Four-Dimensional Waveguide-Free Control Matrix:** The total omission of structural horizontal electrical clock and data address lines, utilizing an external multi-wavelength overhead emitter array coupled with a localized vertical nanometre-scale waveguide piping array (**Nanoputkistot**) running Surface Plasmon Polariton (SPP) waves to compress light past the Abbe diffraction limit across Spatial ($X,Y$), Spectral ($\omega$), and Chronos-time ($t$) domains.
+3. **Phase-Modulated Detached Interference Logic:** The execution of deterministic, speed-of-light universal logic synthesis (XOR/XNOR) through the physical constructive ($\Delta\phi = 0$) and destructive ($\Delta\phi = \pi$) interference of synchronized electro-magnetic fields ($E_A, E_B$), entirely eliminating physical transistor switches from the core logic path.
+4. **Sub-Surface Localized Optoelectronic Latching & Time-Slot Jailing:** A non-Von Neumann volatile state-preservation framework combining sub-surface autonomous quantum dot latches with an LLVM compiler layer that maps logical variables directly onto spatial-temporal tensor coordinates, replacing memory addresses with deterministic physical optical delay lines ($\Delta L$).
+
+---
+
+### CORE PATENT CLAIMS & NOVEL SPECIFICATIONS
+
+The author asserts definitive prior art rights over the following distinct structural, mathematical, and logical claims:
+
+#### Claim 1: The Inverted Rest-State Conducting Processor
+A computing core architecture wherein the absolute default, unpowered, and un-illuminated state of all logic-switching transistor channels corresponds to a logical "1" (fully conductive), characterized by the total utilization of ballistic charge transport channels or superconducting junctions as the native baseline state, such that dynamic power is consumed exclusively during transitions to and maintenance of logical "0" (insulated/chapped state).
+
+#### Claim 2: Spatial WDM Sub-Wavelength Optical Control Structure
+An interconnect-free spatial control mechanism situated on the Z-axis above the computing substrate, comprising:
+- An overhead, non-moving optical phased emitter array generating complex multi-wavelength superposition light waves;
+- A surface-integrated photonic crystal spectral demultiplexing layer mapping specific geographic logic addresses to discrete optical frequencies ($\omega_n$);
+- A dense vertical forest of graphene-lined or carbon nanotube (CNT) plasmonic waveguides (*nanoputkistot*) engineered to convert incoming photons into Surface Plasmon Polaritons (SPPs), shrinking the effective wavelength below the classical free-space Abbe diffraction limit to target individual nanometre-scale gate channels.
+
+#### Claim 3: Two-Transistor Series Universal NAND and Interference XOR/XNOR Logic Gate
+A hybrid logic primitive structural design consisting of:
+- **Two POLL transistors wired in sequence (series configuration)** without parallel pull-up networks, wherein the output state defaults to a conductive logical "1" and shifts to a logical "0" if and only if both series gates are actively illuminated by their respective designated spectral frequencies simultaneously;
+- **A nanoplasmonic waveguide intersection** wherein two phase-locked, synchronized femtosecond pulse streams ($E_A$ and $E_B$) combine, executing universal XOR/XNOR logic on a shared gate node such that constructive interference ($\Delta\phi = 0$) generates a gate voltage $V_{\text{gate}} > V_{\text{th}}$ to trigger phonon scattering and force logical "0", while destructive interference ($\Delta\phi = \pi$) keeps $V_{\text{gate}} \to 0$, sustaining undisturbed ballistic transport at logical "1".
+
+#### Claim 4: Sub-Surface Autonomous Optoelectronic State Latching
+A volatile state preservation and latching apparatus embedded inside the substrate directly below each logic switching node, characterized by:
+- An integrated quantum-confined light source (nano-LED or quantum dot) configured to activate in response to a local voltage spike induced when the primary transistor channel enters a highly resistive State 0;
+- A dedicated reflective cavity feedback path routing this localized light directly onto a photo-gate adjacent to the primary channel, sustaining State 0 completely independent of the external overhead emitter matrix until a global voltage clear ($\text{Clr}$) signal resets the substrate array.
+
+#### Claim 5: 4D Time-Slot Jailing Hardware/Compiler Abstraction Layer
+A processing boundary and compilation framework configured to execute software execution threads on a four-dimensional tensor coordinate system $\mathbf{M}(X, Y, \omega, t)$ without traditional Von Neumann memory addresses, comprising:
+- A specialized LLVM backend engine that maps logical variables $V_n$ directly onto discrete Chronos time-slots ($C_k$), spectral carrier channels ($\omega$), and spatial layouts ($X,Y$);
+- An optical hardware delay line routing mesh where data dependencies are natively resolved without data caches, branch predictors, or CPU wait states by enforcing deterministic physical propagation lengths ($\Delta L = \Delta t \cdot \frac{c}{n}$);
+- A hardware complementary mapping array using cross-wired register sense amplifiers to report a standard positive digital logic "1" externally when the internal channel is physically un-powered and un-illuminated.
+
+---
+
+### DEFENSIVE PRIOR ART LICENSE TERMS
+
+To prevent predatory patenting, corporate encapsulation, or the restriction of this architecture's development, the Author establishes the following licensing guidelines:
+
+1. **Prior Art Establishment:** This documentation serves as a public, globally indexable disclosure of the specified technologies. Any subsequent patent application by external entities containing claims to wireless Z-axis plasmonic nanopipe array logic gating, phase-modulated interference logic nodes, time-slot jailing compilation routing, or inverted rest-conductive series NAND layouts shall be deemed anticipated by this prior art disclosure under global patent frameworks.
+2. **Defensive Open Access Authorization:** Individuals, research collectives, and open hardware consortiums are granted an open, royalty-free license to simulate, prototype, and manufacture TC-POLL structures for experimental, academic, and non-commercial development.
+3. **Commercial & IP Protection Restrictions:** Commercial manufacturing, licensing integration into proprietary semiconductor fabrics, or modification of the TC-POLL ecosystem for commercial deployment is strictly forbidden without direct prior authorization. For commercial inquiries, validation rights, or customized technology transfers, parties must submit formal proposals to: **projectflagcarrier@gmail.com**.
